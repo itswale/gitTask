@@ -1,5 +1,10 @@
 
 public class helloWorld() 
 {
-	System.out.println("Git is Awesome!");
+	System.out.println("Isn't Git Awesome? ");
+	input = new Scanner(System.in);
+	userInput = input.nextLine();
+	
+	System.out.println(userInput);
+	
 }
